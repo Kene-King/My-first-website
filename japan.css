@@ -1,0 +1,77 @@
+body{
+  background-color:white;
+}
+#table1{
+  width:100%
+}
+#td1{
+  width:50%;
+  font-size:
+}
+
+a{
+  text-decoration:none;
+  color:gray;
+}
+#a1{
+  color:red;
+}
+#table3{
+  background-color:red;
+  width:100%;
+  height:200px;
+  background-size:cover;
+  text-align:center;
+  padding-top:30px;
+}
+#table3 h2{
+  color:white;
+}
+ 
+#table3 h6{
+  color:white;
+}
+#table3 img{
+  width:50px;
+  border-radius:10000px
+}
+
+#table4 img{
+  border-radius:50px;
+  width:90px;
+  
+}
+#table4{
+  width:100%;
+  background-color:#dcdcdc;
+    padding:12px;
+  text-align:center;
+ 
+}
+#table4 td{
+  margin:5px;
+}
+
+h4{
+  text-align:center;
+}
+
+
+h3{
+  text-align:center;
+}
+#table5 img{
+  width:30px;
+}
+#table5{
+ text-align:center;
+}
+
+
+
+
+
+
+
+
+
